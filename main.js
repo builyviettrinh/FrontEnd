@@ -1,3 +1,11 @@
+function themUser {
+    console.log("dev1 them nguoi dung");
+}
+
+
+
+
+
 console.log("hello");
 //  Biến
 var userName = "hello abc";
