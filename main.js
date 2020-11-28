@@ -1,4 +1,9 @@
+
 console.log("hello");
+
+function themUser(){
+    console.log(" dev2 themUser");
+}
 //  Biến
 var userName = "hello abc";
 
