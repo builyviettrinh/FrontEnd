@@ -1,4 +1,4 @@
-function themUser {
+function themUser() {
     console.log("dev1 them nguoi dung");
 }
 
